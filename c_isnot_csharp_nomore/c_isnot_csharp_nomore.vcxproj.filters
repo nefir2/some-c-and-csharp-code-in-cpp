@@ -21,9 +21,15 @@
     <ClCompile Include="SecSolution.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Transports.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SecSolution.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Transports.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
